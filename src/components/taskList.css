@@ -1,0 +1,21 @@
+.TaskList {
+  margin-top: 40px;
+   font-size: larger;
+   border: 0.5px solid aliceblue;
+   position: absolute;
+   left: 450px;
+   right: 650px;
+  }
+  
+  .delete-button {
+    position:relative;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 50px;
+    margin-bottom: 20px; /* Adjust margin as needed */
+  }
+  
